@@ -22,7 +22,7 @@ Nginx is a web server that can also be used as a reverse proxy, load balancer, m
 
 | HTTP          | TCP/UDP       |
 | :--------     | :--------     |
-| `80,90`       | `3306,5432`   |
+| `80`          |               |
 
 ➡️ click on Advanced.
 

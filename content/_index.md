@@ -25,13 +25,13 @@
 
 ## Demo for Deploying applications on scaleinfinite platform
 
-  [![Xampp deployment](https://img.shields.io/badge/Xampp_deployment-1DA1F2?style=for-the-badge&logo=xampp&logoColor=white)](demo_deployments/xampp) 
-  [![Wordpress Mysql deployment](https://img.shields.io/badge/Wordpress_Mysql_deployment-1DA1F2?style=for-the-badge&logo=wordpress&logoColor=white)](demo_deployments/wpmysql)
-  [![Wordpress Sqlite deployment](https://img.shields.io/badge/Wordpress_Sqlite_deployment-1DA1F2?style=for-the-badge&logo=wordpress&logoColor=white)](demo_deployments/wpsqlite) 
-  [![Grafana deployment](https://img.shields.io/badge/Grafana_deployment-1DA1F2?style=for-the-badge&logo=grafana&logoColor=white)](demo_deployments/grafana)
-  [![Linux VPS deployment](https://img.shields.io/badge/Linux_VPS_deployment-1DA1F2?style=for-the-badge&logo=linux&logoColor=white)](demo_deployments/linuxvps) 
-  [![Nginx deployment](https://img.shields.io/badge/Nginx_deployment-1DA1F2?style=for-the-badge&logo=nginx&logoColor=white)](demo_deployments/nginx)
-  [![Drupal deployment](https://img.shields.io/badge/Drupal_deployment-1DA1F2?style=for-the-badge&logo=drupal&logoColor=white)](demo_deployments/drupal)
+  [![Xampp deployment](https://img.shields.io/badge/Xampp_deployment-1DA1F2?style=for-the-badge&logo=xampp&logoColor=white)](demo_deployments/tools_and_other_soft/xampp/_index.md) 
+  [![Wordpress Mysql deployment](https://img.shields.io/badge/Wordpress_Mysql_deployment-1DA1F2?style=for-the-badge&logo=wordpress&logoColor=white)](demo_deployments/http/wpmysql/_index.md)
+  [![Wordpress Sqlite deployment](https://img.shields.io/badge/Wordpress_Sqlite_deployment-1DA1F2?style=for-the-badge&logo=wordpress&logoColor=white)](demo_deployments/http/wpsqlite/_index.md) 
+  [![Grafana deployment](https://img.shields.io/badge/Grafana_deployment-1DA1F2?style=for-the-badge&logo=grafana&logoColor=white)](demo_deployments/http/grafana/_index.md)
+  [![Linux VPS deployment](https://img.shields.io/badge/Linux_VPS_deployment-1DA1F2?style=for-the-badge&logo=linux&logoColor=white)](demo_deployments/http/linuxvps/_index.md) 
+  [![Nginx deployment](https://img.shields.io/badge/Nginx_deployment-1DA1F2?style=for-the-badge&logo=nginx&logoColor=white)](demo_deployments/http/nginx/_index.md)
+  [![Drupal deployment](https://img.shields.io/badge/Drupal_deployment-1DA1F2?style=for-the-badge&logo=drupal&logoColor=white)](demo_deployments/http/drupal/_index.md)
 
 
  
